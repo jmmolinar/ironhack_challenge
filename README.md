@@ -1,7 +1,8 @@
-#ironhack_challenge
+# ironhack_challenge
 
-#JOSÉ MIGUEL MOLINA RONDÓN - 07/05/2020 - DD/MM/AAAA
-#Challenge 1 – Segmentación del mercado
+JOSÉ MIGUEL MOLINA RONDÓN - 07/05/2020 - DD/MM/AAAA
+
+# Challenge 1 – Segmentación del mercado
 
 Segmentar a los pasajeros de la aerolínea en diferentes subgrupos según los años como cliente y la cantidad de dinero gastada anualmente en los servicios.
 
@@ -21,9 +22,10 @@ Para segmentar a los pasajeros en estos cuatro grupos, el departamento de Market
 
 Tarea:
 
-Su tarea es encontrar el segmento correspondiente para cada uno de los índices. Para hacerlo, debe usar Python para crear una lista llamada segmentación, donde debe almacenar el segmento correcto para cada índice.
+Encontrar el segmento correspondiente para cada uno de los índices. Para hacerlo, debe usar Python para crear una lista llamada segmentación, donde debe almacenar el segmento correcto para cada índice.
 
-#JOSÉ MIGUEL MOLINA RONDÓN - 07/05/2020 - DD/MM/AAAA
-#Challenge 2 – HOLIDAY ESCAPE!
+SOLUCIÓN: https://repl.it/@jmmolinar/Challenge1
+
+# Challenge 2 – HOLIDAY ESCAPE!
 
 Análisis de cada gráfico estadístico en el documento Challenge2.pdf
